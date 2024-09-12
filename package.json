@@ -1,7 +1,7 @@
 {
-  "name": "@catalogworks/howler",
+  "name": "@sommmy/howler-ios-fix",
   "version": "2.2.5",
-  "description": "Javascript audio library for the modern web.",
+  "description": "Javascript audio library for the modern web. (ios fix by @catalogworks)",
   "homepage": "https://howlerjs.com",
   "keywords": [
     "howler",
