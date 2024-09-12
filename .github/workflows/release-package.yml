@@ -1,4 +1,4 @@
-name: howlerjs-ios-fix
+name: howler-ios-fix
 
 on:
   release:
